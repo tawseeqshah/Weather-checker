@@ -25,6 +25,7 @@ Enter the name of the place you want to check the weather for in the entry field
 Click the "Check Weather" button to retrieve the information
 The temperature, unit, and description will be displayed on the screen
 
+I have also provided an .exe file.
 
 Author
 This program was written by Tawseeq Mushtaq Shah.
